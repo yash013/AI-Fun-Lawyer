@@ -15,7 +15,7 @@ if __name__ == "__main__":
 
 st.title("AI fun lawyer")
 
-st.write("Let the AI lawyer save your son !")
+st.write("Let the Essay save your son!!")
 
 st.markdown("🚨🚨🚨This is just a fun lawyer made with the intentions of not hurting anybody's feelings or sentiments!!🚨🚨🚨")
 
