@@ -17,7 +17,7 @@ st.title("AI fun lawyer")
 
 st.write("Let the AI lawyer save your son !")
 
-st.markdown("This is just a fun lawyer made with the intentions of not hurting anybody's feelings or sentiments!!")
+st.markdown("🚨🚨🚨This is just a fun lawyer made with the intentions of not hurting anybody's feelings or sentiments!!🚨🚨🚨")
 
 acCrime = st.text_input("Enter The crime your son have commited!!")
 if st.button('Submit', key='submit_button', help='Click to submit your input.'):
